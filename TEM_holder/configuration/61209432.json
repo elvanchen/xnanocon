@@ -1,0 +1,51 @@
+{
+	"CalibrationParam" : 
+	{
+		"p0" : 2.5715255808465902,
+		"p1" : 0.000242230623434969,
+		"p10" : 0.00079220168025464805,
+		"p11" : 1.0061853511369601,
+		"p12" : 0.0010368505018622999,
+		"p13" : 0.59600173548556901,
+		"p14" : 0.34777472696817202,
+		"p2" : 0.319887715176355,
+		"p3" : -0.0013504728120477,
+		"p4" : 0.135206452238609,
+		"p5" : 0.00017655607754369301,
+		"p6" : 0.30314537056989899,
+		"p7" : -0.00015383401481953399,
+		"p8" : 0.80881390185431201,
+		"p9" : 7.0633364716761999
+	},
+	"FormulaVersion" : 5,
+	"Functions" : 
+	{
+		"AutoRotate" : true,
+		"Coarse_B" : true,
+		"Coarse_R" : true,
+		"Coarse_X" : true,
+		"Coarse_Y" : true,
+		"Coarse_Z" : true,
+		"Fine_X" : true,
+		"Fine_Y" : true,
+		"Fine_Z" : true
+	},
+	"ID" : "61209432",
+	"MotionDirection" : 
+	{
+		"Coarse_B" : false,
+		"Coarse_R" : false,
+		"Coarse_X" : false,
+		"Coarse_Y" : false,
+		"Coarse_Z" : false,
+		"Fine_X" : false,
+		"Fine_Y" : false,
+		"Fine_Z" : false
+	},
+	"RotateRange" : 
+	{
+		"LowerLimit" : 0.0,
+		"UpperLimit" : 360.0
+	},
+	"Type" : "Normal"
+}
